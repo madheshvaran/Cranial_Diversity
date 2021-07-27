@@ -1,0 +1,23 @@
+,Occipital Bone,Left Temporal Bone,Right Temporal Bone,Left Parietal Bone,Right Parietal Bone,Sphenoid Bone,Ethmoid Bone,Frontal bone,Left Zygomatic Bone,Right Zygomatic Bone ,Left Lacrimal Bone ,Right Lacrimal Bone,Left Nasal Bone,Right Nasal Bone,Left Inferior nasal conchae Bone,Right Inferior nasal conchae Bone,Left Palatine Bone,Right Palatine Bone,Left Maxilla Bone,Right Maxilla Bone,Vomer Bone,Mandible Bone
+Occipital Bone,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Left Temporal Bone,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Right Temporal Bone,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Left Parietal Bone,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Right Parietal Bone,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sphenoid Bone,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,0
+Ethmoid Bone,0,0,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0
+Frontal bone,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0
+Left Zygomatic Bone,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Right Zygomatic Bone ,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Left Lacrimal Bone ,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+Right Lacrimal Bone,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+Left Nasal Bone,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+Right Nasal Bone,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+Left Inferior nasal conchae Bone,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0
+Right Inferior nasal conchae Bone,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0
+Left Palatine Bone,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0
+Right Palatine Bone,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0
+Left Maxilla Bone,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,1,0,1,1,1,0
+Right Maxilla Bone,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1,1,1,1,0
+Vomer Bone,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0
+Mandible Bone,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
